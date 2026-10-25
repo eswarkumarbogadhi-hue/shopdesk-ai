@@ -1,4 +1,5 @@
 # 🧁 ShopDesk AI — The AI Support Desk for Small Businesses
+**Live demo:** https://shopdesk-ai.onrender.com
 
 > **"Turn messy customer messages across WhatsApp, Instagram, and Email into clean orders and happy replies in seconds."**
 
@@ -23,9 +24,10 @@ ShopDesk AI is an AI-powered, multi-channel support desk purpose-built for non-t
 - **Zero External Dependencies:** Built with zero npm bloat. Can run instantly out-of-the-box!
 
 ### 1. Run the Application
-Navigate to the project directory:
+Clone the project and start the server:
 ```bash
-cd C:\Users\eswar\.gemini\antigravity\scratch\shopdesk-ai
+git clone https://github.com/eswarkumarbogadhi-hue/shopdesk-ai.git
+cd shopdesk-ai
 node server.js
 ```
 Open your browser at:
