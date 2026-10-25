@@ -1,0 +1,21 @@
+{
+  "name": "shopdesk-ai",
+  "version": "1.0.0",
+  "description": "ShopDesk AI - The AI-Powered Support Desk for Small Businesses",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "test": "node test.js"
+  },
+  "keywords": [
+    "ai",
+    "customer-support",
+    "small-business",
+    "automation",
+    "inbox",
+    "hackathon"
+  ],
+  "author": "ShopDesk AI Team",
+  "license": "MIT"
+}
